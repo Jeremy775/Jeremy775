@@ -1,11 +1,9 @@
-<h1 align="center">Bonjour 👋, je suis Jeremy</h1>
-
 <h1 align="center">Portfolio</h1>
 
 <p align="center">
     <h3 align="center">To do list</h6>
     <p align="center">HTML CSS JAVASCRIPT</p>
-    <p align="center">Todolist avec localstorage et crud</p>
+    <p align="center">Todolist avec localstorage et CRUD</p>
     <p align="center">
       <a href="https://jeremy775.github.io/ToDoList/">Live DEMO</a>
       <a href="https://github.com/Jeremy775/ToDoList">Code</a>
