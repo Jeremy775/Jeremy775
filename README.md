@@ -5,7 +5,7 @@
     <p align="center">HTML CSS JAVASCRIPT</p>
     <p align="center">Todolist avec localstorage et CRUD</p>
     <p align="center">
-      <a href="https://jeremy775.github.io/ToDoList/">Live DEMO</a>
+      <a href="https://jeremy775.github.io/ToDoList/">DEMO</a>
       <a href="https://github.com/Jeremy775/ToDoList">Code</a>
       <h1></h1>
     </p>
@@ -15,7 +15,7 @@
     <p align="center">LARAVEL</p>
     <p align="center">Blog avec CRUD, authentification</p>
     <p align="center">
-      <a href="https://jeremy775.github.io/CityzenBlog/">Live DEMO</a>
+      <a href="https://jeremy775.github.io/CityzenBlog/">DEMO</a>
       <a href="https://github.com/Jeremy775/CityzenBlog/">Code</a>
   <h1></h1>
     </p>
@@ -25,7 +25,7 @@
     <p align="center">HTML CSS JAVASCRIPT</p>
     <p align="center">Système de gestion de livres</p>
     <p align="center">
-      <a href="https://jeremy775.github.io/library_app/">Live DEMO</a>
+      <a href="https://jeremy775.github.io/library_app/">DEMO</a>
       <a href="https://github.com/Jeremy775/library_app">Code</a>
   <h1></h1>
     </p>
@@ -35,7 +35,7 @@
     <p align="center">HTML CSS JAVASCRIPT API</p>
     <p align="center">Utilisation de l'API pokemon pour les récupérer tous</p>
     <p align="center">
-      <a href="https://jeremy775.github.io/Pokedex/">Live DEMO</a>
+      <a href="https://jeremy775.github.io/Pokedex/">DEMO</a>
       <a href="https://github.com/Jeremy775/Pokedex">Code</a>
   <h1></h1>
     </p>
